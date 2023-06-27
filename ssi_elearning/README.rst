@@ -16,7 +16,7 @@ To install this module, you need to:
 2.  Add the path to this repository in your configuration (addons-path)
 3.  Update the module list (Must be on developer mode)
 4.  Go to menu *Apps -> Apps -> Main Apps*
-5.  Search For *Project Extension*
+5.  Search For *E-Learning Extension*
 6.  Install the module
 
 Bug Tracker
