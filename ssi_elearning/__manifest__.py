@@ -14,6 +14,7 @@
     ],
     "data": [
         "views/website_slides_templates_course.xml",
+        "views/slide_channel_views.xml",
     ],
     "demo": [],
 }
