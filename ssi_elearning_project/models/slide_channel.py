@@ -6,6 +6,7 @@ from odoo import fields, models
 
 
 class SlideChannel(models.Model):
+    _name = "slide.channel"
     _inherit = [
         "slide.channel",
         "mixin.task",
