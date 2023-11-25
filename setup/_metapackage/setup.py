@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo14-addon-ssi_elearning',
+        'odoo14-addon-ssi_elearning_project',
     ],
     classifiers=[
         'Programming Language :: Python',
