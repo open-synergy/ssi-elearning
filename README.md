@@ -19,6 +19,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [ssi_elearning](ssi_elearning/) | 14.0.1.1.0 |  | E-Learning Extension
+[ssi_elearning_project](ssi_elearning_project/) | 14.0.1.0.0 |  | E-Learning + Project Integration
 
 [//]: # (end addons)
 
