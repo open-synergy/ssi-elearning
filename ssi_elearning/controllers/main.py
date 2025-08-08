@@ -51,7 +51,7 @@ class WebsiteSlidesSsi(WebsiteSlides):
     ):
         if not sorting:
             sorting = "sequence"
-        res = super(WebsiteSlidesSsi, self).channel(
+        res = super().channel(
             channel=channel,
             category=category,
             tag=tag,
