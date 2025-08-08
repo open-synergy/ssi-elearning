@@ -20,6 +20,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [ssi_elearning](ssi_elearning/) | 14.0.1.2.0 |  | E-Learning Extension
 [ssi_elearning_project](ssi_elearning_project/) | 14.0.1.0.0 |  | E-Learning + Project Integration
+[ssi_elearning_work_log](ssi_elearning_work_log/) | 14.0.1.0.0 |  | E-Learning - Work Log Integration
 
 [//]: # (end addons)
 
