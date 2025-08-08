@@ -14,3 +14,7 @@ class SlideChannel(models.Model):
         domain=[('channel_id.channel_type', '=', 'documentation')],
         string='Related Contents'
     )
+    commercial_partner_id = fields.Many2one(
+        string="Commercial Partner",
+        comodel_name="res.partner",
+    )

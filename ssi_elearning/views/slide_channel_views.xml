@@ -12,6 +12,7 @@
             <field name="arch" type="xml">
 
                 <xpath expr="//field[@name='user_id']" position="after">
+                    <field name="commercial_partner_id" domain="[('parent_id','=',False)]"/>
                     <field name="related_content_ids" widget="many2many_tags" attrs="{'invisible': [('channel_type', '!=', 'training')]}"/>
                 </xpath>
 
