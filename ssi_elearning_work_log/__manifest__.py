@@ -9,7 +9,7 @@
     "license": "AGPL-3",
     "installable": True,
     "depends": [
-        "ssi_odoo_implementation",
+        "ssi_elearning_project",
         "ssi_work_log_mixin",
     ],
     "data": [],
